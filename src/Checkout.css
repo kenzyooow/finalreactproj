@@ -1,0 +1,25 @@
+.checkout{
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+}
+.cout-title{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+}
+.cart-title{
+    margin-right: 10px;
+    padding: 10px;
+    margin-top: 50px;
+    text-align: center;
+}
+.checkout-btn{
+    margin-left: 35%;
+    background-color: #6495ED;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #4682B4 #6A5ACD #008080;
+}

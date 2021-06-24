@@ -1,0 +1,19 @@
+.home{
+    max-width: fixed;
+    margin-left: auto;
+    margin-top: auto;
+    background-color: teal;
+}
+.home-img{
+    width: 100%;
+    mask-image: linear-gradient(to bottom, rgb(0,0,0,1), rgb(0,0,0,0.2));
+    z-index: -1;
+    margin-bottom: -150px;
+}
+.home-row{
+    display: flex;
+    z-index: 1;
+    margin-right: 5px;
+    margin-left: 5px;
+    background-color: teal;
+}
